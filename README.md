@@ -1,17 +1,20 @@
+![logo]()
 <h1 align="center">Hi 👋, I'm Badri Akkala</h1>
 <h3 align="center">A passionate Android developer from India</h3>
 
+<img align = "right" alt="couldn't load image" width = "400" src ="">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lcb2021029-badri&label=Profile%20views&color=0e75b6&style=flat" alt="lcb2021029-badri" /> </p>
 
-- I’m currently learning **Testing for Andorid**
+- Currently learning **Testing for Andorid**
 
-- I’m looking to collaborate for **Andorid Projects**
+- Looking to collaborate for **Andorid Projects**
 
-- Ask me about **Android, Kotlin, Java**
+- Expertise and hands-on skills in **Android, Kotlin, Java**
 
-- How to reach me **badriakkalaofficial@gmail.com**
+- Contact me thru **badriakkalaofficial@gmail.com**
 
-- Know about my experiences [resume](https://drive.google.com/file/d/1tlZhcLqAqbOPjTicF4eTZqGULZxEX2uj/view?usp=sharing)
+- My Resume [**click here**](https://drive.google.com/file/d/1tlZhcLqAqbOPjTicF4eTZqGULZxEX2uj/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
