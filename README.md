@@ -33,13 +33,13 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lcb2021029-badri&" alt="lcb2021029-badri" /></p> -->
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-
-  <div style="flex-basis: 600px; margin: 16px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=lcb2021029-badri&show_icons=true&locale=en" alt="lcb2021029-badri" width="600" />
+  
+  <div style="flex-basis: 600px; margin: 16px; text-align: center;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lcb2021029-badri&show_icons=true&locale=en&layout=compact" alt="lcb2021029-badri" width="600" />
   </div>
   
-  <div style="flex-basis: 600px; margin: 16px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lcb2021029-badri&show_icons=true&locale=en&layout=compact" alt="lcb2021029-badri" width="600" />
+  <div style="flex-basis: 600px; margin: 16px; text-align: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=lcb2021029-badri&show_icons=true&locale=en" alt="lcb2021029-badri" width="600" />
   </div>
   
   <div style="flex-basis: 600px; margin: 16px; text-align: center;">
@@ -47,6 +47,7 @@
   </div>
 
 </div>
+
 
 
 
