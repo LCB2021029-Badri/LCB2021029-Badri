@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lcb2021029-badri&label=Profile%20views&color=0e75b6&style=flat" alt="lcb2021029-badri" /> </p>
 
-- I'm Currently working on prototype for Canara DACAE-thon [GREYLIFE_CANARA](https://github.com/LCB2021029-Badri/GREYLIFE_CANARA)
-
 - I’m currently learning **Testing for Andorid**
 
 - I’m looking to collaborate for **Andorid Projects**
