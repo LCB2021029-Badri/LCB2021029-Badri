@@ -5,7 +5,7 @@
 
 - I'm Currently working on prototype for Canara DACAE-thon [GREYLIFE_CANARA](https://github.com/LCB2021029-Badri/GREYLIFE_CANARA)
 
-- I’m currently learning **Unit-Testing in Andorid**
+- I’m currently learning **Testing for Andorid**
 
 - I’m looking to collaborate for **Andorid Projects**
 
