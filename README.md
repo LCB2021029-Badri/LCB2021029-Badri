@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lcb2021029-badri&label=Profile%20views&color=0e75b6&style=flat" alt="lcb2021029-badri" /> </p>
 
-- Currently learning **Testing for Andorid**
+- Currently learning **Testing in Andorid**
 
 - Looking to collaborate for **Andorid Projects**
 
