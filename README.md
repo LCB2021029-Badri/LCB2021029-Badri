@@ -1,6 +1,7 @@
 <!-- ![logo]() -->
-<h1 align="center">Hi 👋, I'm Badri Akkala</h1>
-<h3 align="center">A passionate Android developer from India</h3>
+![logo](https://github.com/LCB2021029-Badri/LCB2021029-Badri/blob/main/WhatsApp%20Image%202023-11-17%20at%2011.38.38%20AM.jpg)
+<h1 align="center">Hello, I'm Badri Akkala</h1>
+<h3 align="center">A passionate Android developer</h3>
 
 <img align = "right" alt="couldn't load image" width = "400" src ="https://github.com/LCB2021029-Badri/LCB2021029-Badri/blob/main/android-app.gif">
 
