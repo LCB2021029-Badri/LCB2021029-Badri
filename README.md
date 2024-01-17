@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lcb2021029-badri&label=Profile%20views&color=0e75b6&style=flat" alt="lcb2021029-badri" /> </p>
 
-- Currently learning **Testing in Andorid**
+- Currently learning **DSA**
 
 - Looking to collaborate for **Andorid Projects**
 
@@ -15,7 +15,7 @@
 
 - Contact me thru **badriakkalaofficial@gmail.com**
 
-- My Resume [**click here**](https://drive.google.com/file/d/1tlZhcLqAqbOPjTicF4eTZqGULZxEX2uj/view?usp=sharing)
+- My Resume [**click here**](https://drive.google.com/file/d/1pEDexFa9pJcg7uc-EJEW3ovEdwJggoOj/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
