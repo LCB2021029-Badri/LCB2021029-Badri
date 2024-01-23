@@ -15,7 +15,7 @@
 
 - Contact me thru **badriakkalaofficial@gmail.com**
 
-- My Resume [**click here**](https://drive.google.com/file/d/1pEDexFa9pJcg7uc-EJEW3ovEdwJggoOj/view?usp=sharing)
+- My Resume [**click here**](https://drive.google.com/file/d/1wFLdu9aU8yR43erDxNEWm5fxXmI12HIg/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
