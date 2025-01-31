@@ -9,7 +9,7 @@
 
 - Currently learning **DSA**
 
-- Looking to collaborate for **Andorid Projects**
+- Looking to collaborate for **Android Projects**
 
 - Expertise and hands-on skills in **Android, Kotlin, Java**
 
